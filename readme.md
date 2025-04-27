@@ -50,16 +50,6 @@ This project is a fun and interactive way to learn about DOM manipulation, event
 
 ---
 
-## 🔗 Live Demo (Optional)
-
-Add your live link here if deployed:
-
-```
-https://your-live-demo-link.com
-```
-
----
-
 ## 🖼️ Screenshot
 
 ![Random Color Changer Screenshot](https://github.com/Denis793/Calculator/blob/main/Calculator.png)
