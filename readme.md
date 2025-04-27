@@ -3,6 +3,7 @@
 This project is a simple application that changes the background color of the page randomly with a single button click. It also displays the current color code on the screen.
 
 ---
+
 ## 🖼️ Screenshot
 
 ![Random Color Changer Screenshot](https://github.com/Denis793/Random_Color/blob/main/Random_Color.png)
@@ -52,3 +53,4 @@ This project is a simple application that changes the background color of the pa
 This project is a fun and interactive way to learn about DOM manipulation, event handling, and color generation using **HTML**, **CSS**, and **JavaScript**.
 
 > "One click, endless colors!"
+> _This project was updated as part of a GitHub achievements challenge._ 🚀
