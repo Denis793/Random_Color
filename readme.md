@@ -52,6 +52,6 @@ This project is a fun and interactive way to learn about DOM manipulation, event
 
 ## 🖼️ Screenshot
 
-![Random Color Changer Screenshot](https://github.com/Denis793/Calculator/blob/main/Calculator.png)
+![Random Color Changer Screenshot](https://github.com/Denis793/Random_Color/blob/main/Random_Color.png)
 
 _(Replace the link above with the actual screenshot URL)_
