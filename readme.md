@@ -2,16 +2,19 @@
 
 This project is a simple application that changes the background color of the page randomly with a single button click. It also displays the current color code on the screen.
 
-[View Random Color Generator](https://denis793.github.io/Random_Color/)
+---
 
 <p align="center">
   <a href="https://denis793.github.io/Random_Color/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Demo-Click%20Here-blue?style=for-the-badge" alt="View Demo">
+    <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge" alt="View Project">
   </a>
 </p>
 
-
-[Discussions Random Color](https://github.com/Denis793/Random_Color/discussions/4#discussion-8254945)
+<p align="center">
+  <a href="https://github.com/Denis793/Random_Color/discussions/4" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20Discussion-Share%20Ideas-purple?style=for-the-badge" alt="Join Discussion">
+  </a>
+</p>
 
 ---
 
