@@ -4,6 +4,13 @@ This project is a simple application that changes the background color of the pa
 
 [View Random Color Generator](https://denis793.github.io/Random_Color/)
 
+<p align="center">
+  <a href="https://denis793.github.io/Random_Color/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Demo-Click%20Here-blue?style=for-the-badge" alt="View Demo">
+  </a>
+</p>
+
+
 [Discussions Random Color](https://github.com/Denis793/Random_Color/discussions/4#discussion-8254945)
 
 ---
