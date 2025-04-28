@@ -28,8 +28,8 @@ body {
 .title {
   background-color: #000;
   border-radius: 15px;
-  padding-block: clamp(1rem, 3vw, 3rem); /* верх + низ */
-  padding-inline: clamp(1.4rem, 5vw, 5rem); /* ліво + право */
+  padding-block: clamp(1rem, 3vw, 3rem);
+  padding-inline: clamp(1.4rem, 5vw, 5rem);
 }
 
 .button {
