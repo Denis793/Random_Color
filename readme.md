@@ -2,9 +2,9 @@
 
 This project is a simple application that changes the background color of the page randomly with a single button click. It also displays the current color code on the screen.
 
-![View Random Color Generator](https://denis793.github.io/Random_Color/)
+[View Random Color Generator](https://denis793.github.io/Random_Color/)
 
-![Discussions Random Color](https://github.com/Denis793/Random_Color/discussions/4#discussion-8254945)
+[Discussions Random Color](https://github.com/Denis793/Random_Color/discussions/4#discussion-8254945)
 
 ---
 
