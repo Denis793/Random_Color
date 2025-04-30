@@ -65,6 +65,3 @@ This project is a simple application that changes the background color of the pa
 ## 📅 Summary
 
 This project is a fun and interactive way to learn about DOM manipulation, event handling, and color generation using **HTML**, **CSS**, and **JavaScript**.
-
-> "One click, endless colors!"
-> _This project was updated as part of a GitHub achievements challenge._ 🚀
